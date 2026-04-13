@@ -117,16 +117,3 @@ What can be improved next:
 - role guards and route protection hardening
 
 ---
-
-## Team
-
-**Team CyberAid**
-
-If you are contributing, please keep commits focused and document any schema changes in `database.sql`.
-
----
-
-## License
-
-No explicit license file is included yet.
-If you plan to open-source this publicly, add a `LICENSE` file (MIT/Apache-2.0/etc.) first.
